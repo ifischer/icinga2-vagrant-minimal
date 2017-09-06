@@ -2,7 +2,7 @@
 # vi: set ft=ruby :
 
 Vagrant.configure("2") do |config|
-  config.vm.box = "box-cutter/ubuntu1604-desktop"
+  config.vm.box = "box-cutter/ubuntu1604"
 
   config.vm.provider :virtualbox do |vb|
       vb.name = "config"
