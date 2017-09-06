@@ -1,6 +1,6 @@
 # Minimal Icinga2 Server Vagrantfile
 
-Minimal Vagrantfile to test Icinga2 server installation in a specific version.
+Minimal Vagrantfile to test Icinga2 on Debian using a specific version (see Vagrantfile).
 
 Usage:
 
